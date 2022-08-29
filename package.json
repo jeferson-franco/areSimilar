@@ -1,0 +1,20 @@
+{
+  "name": "aresimilar",
+  "version": "1.0.0",
+  "description": "Two arrays are called _similar_ if one can be obtained from another by swapping at most one pair of elements in one of the arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/areSimilar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/areSimilar/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/areSimilar#readme"
+}
